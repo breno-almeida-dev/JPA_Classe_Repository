@@ -61,7 +61,7 @@ GET /clientes
 
 📸 Teste no Postman:
 
-![GET Todos](images/get_clientes.png)
+![GET Todos](get_clientes.png)
 
 ---
 
@@ -77,7 +77,7 @@ http://localhost:8080/clientes/1
 
 📸 Teste no Postman:
 
-![GET Por ID](images/get_cliente_id.png)
+![GET Por ID](get_cliente_id.png)
 
 ---
 
@@ -97,7 +97,7 @@ Cliente não encontrado!
 
 📸 Teste no Postman:
 
-![DELETE Cliente](images/delete_cliente.png)
+![DELETE Cliente](delete_cliente.png)
 
 ---
 
@@ -109,7 +109,7 @@ GET /clientes/buscarPorNome?nome=Breno
 
 📸 Teste no Postman:
 
-![GET Nome](images/get_cliente_nome.png)
+![GET Nome](get_cliente_nome.png)
 
 ---
 
@@ -121,7 +121,7 @@ GET /clientes/buscarPorEmail?email=breno@email.com
 
 📸 Teste no Postman:
 
-![GET Email](images/get_cliente_email.png)
+![GET Email](get_cliente_email.png)
 
 ---
 
