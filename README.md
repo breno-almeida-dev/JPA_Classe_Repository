@@ -49,7 +49,7 @@ Retorna o cliente salvo com ID gerado automaticamente.
 
 📸 Teste no Postman:
 
-![POST Cliente](images/post_cliente.png)
+![POST Cliente](post_cliente.png)
 
 ---
 
